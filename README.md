@@ -1,4 +1,4 @@
-# Istio 101 - Lightning Demo
+# Istio 
 
 This is the code I use for my Istio 101 talk. Please take a look! I assume some prior knowledge of Kubernetes, but it's not totally required.
 
