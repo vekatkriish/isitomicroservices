@@ -2,9 +2,6 @@
 
 This is the code I use for my Istio 101 talk. Please take a look! I assume some prior knowledge of Kubernetes, but it's not totally required.
 
-Talk Video:
-[![Talk YouTube Link](https://i.ytimg.com/vi/8OjOGJKM98o/maxresdefault.jpg)](https://www.youtube.com/watch?v=8OjOGJKM98o)
-
 # TL;DR - I want to skip setup
 
 Run this:
